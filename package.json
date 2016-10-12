@@ -1,0 +1,8 @@
+{
+  "name": "aplos",
+  "version": "1.0.0",
+  "description": "a node experiment",
+  "main": "index.js",
+  "author": "dotlouis",
+  "license": "MIT"
+}
